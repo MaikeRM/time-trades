@@ -10,7 +10,7 @@ from TimesAndTrades.OutputTimesTrades import OutputTimesTrades
 # INDQ19 - Indice Bovespa
 # WINQ19 - Mini Indice Bovespa
 #========================================#
-ATIVO = 'WINM20'
+ATIVO = 'PETR4'
 #========================================#
 
 #---INFORMACOES DO SERVIDOR--------------#
