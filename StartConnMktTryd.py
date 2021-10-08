@@ -10,7 +10,7 @@ from MarketData.OutputMarketData import OutputMarketData
 # INDQ19 - Indice Bovespa
 # WINQ19 - Mini Indice Bovespa
 #========================================#
-ATIVO = ['PETR4','VALE3','ITUB4','BBAS3','CIEL3']
+ATIVO = ['PETR4','VALE3','ITUB4','BBAS3','PETRJ296']
 #ATIVO = ['DOLU19']
 #========================================#
 
